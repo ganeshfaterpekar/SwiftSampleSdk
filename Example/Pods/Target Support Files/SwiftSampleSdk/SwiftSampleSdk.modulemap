@@ -1,0 +1,6 @@
+framework module SwiftSampleSdk {
+  umbrella header "SwiftSampleSdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

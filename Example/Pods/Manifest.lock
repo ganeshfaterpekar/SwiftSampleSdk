@@ -1,0 +1,16 @@
+PODS:
+  - SwiftSampleSdk (0.1.0)
+
+DEPENDENCIES:
+  - SwiftSampleSdk (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftSampleSdk:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftSampleSdk: b615895de8ff07d1d9cb5306f3bb85b27b987d57
+
+PODFILE CHECKSUM: 368807185ed7d970d89892e847f11763f1b04577
+
+COCOAPODS: 1.6.1
